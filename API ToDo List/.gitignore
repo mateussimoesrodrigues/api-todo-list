@@ -1,0 +1,93 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Tt]emp/
+*.tmp
+*.log
+*.err
+*.sbr
+*.pdb
+*.opendb
+*.safe
+*.vshost.*
+*.aps
+*.bak
+*.ncb
+*.bsc
+*.lib
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.com
+*.class
+*.lo
+*.la
+*.so
+*.so.*
+*.a
+*.ilk
+*.idb
+*.opt
+*.res
+*.pch
+*.ipch
+*.xsc
+*.xss
+*.xuo
+*.user
+*.pdb
+*.xml
+*.cache
+*.designer.cs
+*.resources
+*.map
+*.min.js
+*.min.css
+
+# Resharper
+*.DotSettings
+*.user
+
+# NuGet
+*.nupkg
+.nuget/
+NuGetScratch/
+project.lock.json
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+# Logs and other generated files
+*.log
+*.zip
+*.rar
+*.tar.gz
+*.gz
+
+# Configuration files
+appsettings.Development.json # Se você não quiser que suas credenciais de dev subam (opcional, mas bom para senhas locais)
+appsettings.Production.json # Se for um arquivo diferente para produção
+
+# NPM
+node_modules/
+
+# Local data (if applicable, e.g. SQLite DBs or local files)
+*.db
+*.sqlite
+*.sqlite3

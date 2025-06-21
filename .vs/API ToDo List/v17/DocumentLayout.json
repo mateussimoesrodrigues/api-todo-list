@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|c:\\users\\mateu\\onedrive\\documentos\\c\u00F3digos\\api todo list\\api todo list\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|solutionrelative:api todo list\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|c:\\users\\mateu\\onedrive\\documentos\\c\u00F3digos\\api todo list\\api todo list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|solutionrelative:api todo list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|c:\\users\\mateu\\onedrive\\documentos\\c\u00F3digos\\api todo list\\api todo list\\controllers\\tarefadiariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|solutionrelative:api todo list\\controllers\\tarefadiariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|c:\\users\\mateu\\onedrive\\documentos\\c\u00F3digos\\api todo list\\api todo list\\repositorios\\tarefadiariarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|solutionrelative:api todo list\\repositorios\\tarefadiariarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|c:\\users\\mateu\\onedrive\\documentos\\c\u00F3digos\\api todo list\\api todo list\\repositorios\\itarefadiariarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|solutionrelative:api todo list\\repositorios\\itarefadiariarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|c:\\users\\mateu\\onedrive\\documentos\\c\u00F3digos\\api todo list\\api todo list\\models\\tarefadiaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|solutionrelative:api todo list\\models\\tarefadiaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|c:\\users\\mateu\\onedrive\\documentos\\c\u00F3digos\\api todo list\\api todo list\\repositorios\\tarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|solutionrelative:api todo list\\repositorios\\tarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|c:\\users\\mateu\\onedrive\\documentos\\c\u00F3digos\\api todo list\\api todo list\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|solutionrelative:api todo list\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|c:\\users\\mateu\\onedrive\\documentos\\c\u00F3digos\\api todo list\\api todo list\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|solutionrelative:api todo list\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|c:\\users\\mateu\\onedrive\\documentos\\c\u00F3digos\\api todo list\\api todo list\\repositorios\\itarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|solutionrelative:api todo list\\repositorios\\itarefarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|c:\\users\\mateu\\onedrive\\documentos\\c\u00F3digos\\api todo list\\api todo list\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E333A6B-944C-47F4-A0C8-8945A48766DB}|API ToDo List\\API ToDo List.csproj|solutionrelative:api todo list\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\.gitignore",
+              "RelativeDocumentMoniker": "API ToDo List\\.gitignore",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\.gitignore",
+              "RelativeToolTip": "API ToDo List\\.gitignore",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-21T02:17:17.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarefaDiariaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Repositorios\\TarefaDiariaRepositorio.cs",
+              "RelativeDocumentMoniker": "API ToDo List\\Repositorios\\TarefaDiariaRepositorio.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Repositorios\\TarefaDiariaRepositorio.cs",
+              "RelativeToolTip": "API ToDo List\\Repositorios\\TarefaDiariaRepositorio.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T00:12:50.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITarefaDiariaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Repositorios\\ITarefaDiariaRepositorio.cs",
+              "RelativeDocumentMoniker": "API ToDo List\\Repositorios\\ITarefaDiariaRepositorio.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Repositorios\\ITarefaDiariaRepositorio.cs",
+              "RelativeToolTip": "API ToDo List\\Repositorios\\ITarefaDiariaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T00:12:32.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TarefaDiaria.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Models\\TarefaDiaria.cs",
+              "RelativeDocumentMoniker": "API ToDo List\\Models\\TarefaDiaria.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Models\\TarefaDiaria.cs",
+              "RelativeToolTip": "API ToDo List\\Models\\TarefaDiaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T00:12:15.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITarefaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Repositorios\\ITarefaRepositorio.cs",
+              "RelativeDocumentMoniker": "API ToDo List\\Repositorios\\ITarefaRepositorio.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Repositorios\\ITarefaRepositorio.cs",
+              "RelativeToolTip": "API ToDo List\\Repositorios\\ITarefaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:33:24.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Program.cs",
+              "RelativeDocumentMoniker": "API ToDo List\\Program.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Program.cs",
+              "RelativeToolTip": "API ToDo List\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:07:47.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarefaDiariaController.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Controllers\\TarefaDiariaController.cs",
+              "RelativeDocumentMoniker": "API ToDo List\\Controllers\\TarefaDiariaController.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Controllers\\TarefaDiariaController.cs",
+              "RelativeToolTip": "API ToDo List\\Controllers\\TarefaDiariaController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T00:13:03.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TarefaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Repositorios\\TarefaRepositorio.cs",
+              "RelativeDocumentMoniker": "API ToDo List\\Repositorios\\TarefaRepositorio.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Repositorios\\TarefaRepositorio.cs",
+              "RelativeToolTip": "API ToDo List\\Repositorios\\TarefaRepositorio.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:33:11.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\appsettings.json",
+              "RelativeDocumentMoniker": "API ToDo List\\appsettings.json",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\appsettings.json",
+              "RelativeToolTip": "API ToDo List\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T22:29:15.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "API ToDo List\\Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "API ToDo List\\Controllers\\TarefaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:10:52.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "API ToDo List\\Models\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\C\u00F3digos\\API ToDo List\\API ToDo List\\Models\\Tarefa.cs",
+              "RelativeToolTip": "API ToDo List\\Models\\Tarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:08:58.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
