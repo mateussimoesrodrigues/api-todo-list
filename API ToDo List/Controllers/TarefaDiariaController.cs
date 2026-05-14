@@ -1,25 +1,22 @@
-﻿// Controllers/TarefaDiariaController.cs
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using API_ToDo_List.Models;
-using API_ToDo_List.Repositorios; // Importe o namespace do seu repositório de tarefas diárias
+using API_ToDo_List.Repositorios;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace API_ToDo_List.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")] // A rota será /api/tarefadiaria (nome do controller sem "Controller")
+    [Route("api/[controller]")]
     public class TarefaDiariaController : ControllerBase
     {
         private readonly ITarefaDiariaRepositorio _tarefaDiariaRepositorio;
 
-        // Injeta o repositório de tarefas diárias no construtor
         public TarefaDiariaController(ITarefaDiariaRepositorio tarefaDiariaRepositorio)
         {
             _tarefaDiariaRepositorio = tarefaDiariaRepositorio;
         }
 
-        // GET: api/tarefadiaria
         [HttpGet]
         public async Task<IActionResult> GetTarefasDiarias()
         {
@@ -27,7 +24,6 @@ namespace API_ToDo_List.Controllers
             return Ok(tarefas);
         }
 
-        // GET: api/tarefadiaria/{id}
         [HttpGet("{id}")]
         public async Task<IActionResult> GetTarefaDiaria(int id)
         {
@@ -39,7 +35,6 @@ namespace API_ToDo_List.Controllers
             return Ok(tarefa);
         }
 
-        // POST: api/tarefadiaria
         [HttpPost]
         public async Task<IActionResult> AdicionarTarefaDiaria([FromBody] TarefaDiaria novaTarefaDiaria)
         {
@@ -52,7 +47,6 @@ namespace API_ToDo_List.Controllers
             return CreatedAtAction(nameof(GetTarefaDiaria), new { id = novaTarefaDiaria.Id }, novaTarefaDiaria);
         }
 
-        // PUT: api/tarefadiaria/{id}
         [HttpPut("{id}")]
         public async Task<IActionResult> AtualizarTarefaDiaria(int id, [FromBody] TarefaDiaria tarefaDiariaAtualizada)
         {
@@ -71,7 +65,6 @@ namespace API_ToDo_List.Controllers
             return NoContent();
         }
 
-        // DELETE: api/tarefadiaria/{id}
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeletarTarefaDiaria(int id)
         {
